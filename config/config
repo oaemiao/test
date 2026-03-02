@@ -1,0 +1,8 @@
+[general]
+pvss_path = "C:/Siemens/Automation/WinCC_OA/3.17"
+proj_path = "D:/test"
+proj_version = "3.17"
+langs = "en_US.utf8"
+[ui]
+versionControl = "git"
+versionControlDiff = "C:/Program Files/Git/usr/bin/diff.exe"
