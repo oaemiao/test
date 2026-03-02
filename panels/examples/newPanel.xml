@@ -36,10 +36,45 @@
     <prop name="FillType">[outline]</prop>
     <prop name="Location">50 40</prop>
     <prop name="Font">
-     <prop name="en_US.utf8">Noto Sans,12,-1,5,50,0,0,0,0,0</prop>
+     <prop name="en_US.utf8">Noto Sans,-1,24,5,50,0,0,0,0,0</prop>
     </prop>
     <prop name="Text">
      <prop name="en_US.utf8">this is the first edit and save.</prop>
+    </prop>
+    <prop name="Distance">2</prop>
+    <prop name="BorderOffset">2</prop>
+    <prop name="Bordered">False</prop>
+    <prop name="Fit">True</prop>
+    <prop name="Transformable">False</prop>
+    <prop name="TextFormat">[0s,,,AlignLeft]</prop>
+   </properties>
+  </shape>
+  <shape Name="PRIMITIVE_TEXT2" shapeType="PRIMITIVE_TEXT" layerId="0">
+   <properties>
+    <prop name="serialId">2</prop>
+    <prop name="Type"></prop>
+    <prop name="RefPoint">30 100</prop>
+    <prop name="Enable">True</prop>
+    <prop name="Visible">True</prop>
+    <prop name="ForeColor">_WindowText</prop>
+    <prop name="BackColor">_Window</prop>
+    <prop name="TabOrder">1</prop>
+    <prop name="ToolTipText">
+     <prop name="en_US.utf8"></prop>
+    </prop>
+    <prop name="layoutAlignment">AlignNone</prop>
+    <prop name="snapMode">Point</prop>
+    <prop name="DashBackColor">_Transparent</prop>
+    <prop name="AntiAliased">False</prop>
+    <prop name="LineType">[solid,oneColor,JoinBevel,CapProjecting,1]</prop>
+    <prop name="BorderZoomable">False</prop>
+    <prop name="FillType">[outline]</prop>
+    <prop name="Location">30 100</prop>
+    <prop name="Font">
+     <prop name="en_US.utf8">Noto Sans,12,-1,5,50,0,0,0,0,0</prop>
+    </prop>
+    <prop name="Text">
+     <prop name="en_US.utf8">this is the second edit and save.</prop>
     </prop>
     <prop name="Distance">2</prop>
     <prop name="BorderOffset">2</prop>
